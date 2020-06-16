@@ -6,3 +6,6 @@ class Simple{
     }
 
     code commited
+
+
+    ABCD
